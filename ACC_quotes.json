@@ -1,0 +1,392 @@
+[
+    {
+        "quote": "Old Marley was as dead as a door-nail.",
+        "character": "Narrator",
+        "act_scene": "1",
+        "themes": [
+            "Mortality",
+            "Supernatural"
+        ]
+    },
+    {
+        "quote": "Scrooge! A squeezing, wrenching, grasping, scraping, clutching, covetous old sinner!",
+        "character": "Narrator",
+        "act_scene": "1",
+        "themes": [
+            "Greed",
+            "Isolation"
+        ]
+    },
+    {
+        "quote": "Bah! Humbug!",
+        "character": "Scrooge",
+        "act_scene": "1",
+        "themes": [
+            "Cynicism",
+            "Apathy"
+        ]
+    },
+    {
+        "quote": "If they would rather die, they had better do it, and decrease the surplus population.",
+        "character": "Scrooge",
+        "act_scene": "1",
+        "themes": [
+            "Social Injustice",
+            "Greed"
+        ]
+    },
+    {
+        "quote": "Darkness is cheap, and Scrooge liked it.",
+        "character": "Narrator",
+        "act_scene": "1",
+        "themes": [
+            "Greed",
+            "Isolation"
+        ]
+    },
+    {
+        "quote": "I wear the chain I forged in life.",
+        "character": "Jacob Marley",
+        "act_scene": "1",
+        "themes": [
+            "Regret",
+            "Consequences",
+            "Supernatural"
+        ]
+    },
+    {
+        "quote": "Mankind was my business. The common welfare was my business.",
+        "character": "Jacob Marley",
+        "act_scene": "1",
+        "themes": [
+            "Social Responsibility",
+            "Regret"
+        ]
+    },
+    {
+        "quote": "There’s more of gravy than of grave about you!",
+        "character": "Scrooge",
+        "act_scene": "1",
+        "themes": [
+            "Cynicism",
+            "Humor",
+            "Supernatural"
+        ]
+    },
+    {
+        "quote": "A solitary child, neglected by his friends, is left there still.",
+        "character": "Narrator (about young Scrooge)",
+        "act_scene": "2",
+        "themes": [
+            "Loneliness",
+            "Regret"
+        ]
+    },
+    {
+        "quote": "The happiness he gives, is quite as great as if it cost a fortune.",
+        "character": "Narrator (about Fezziwig)",
+        "act_scene": "2",
+        "themes": [
+            "Generosity",
+            "Kindness"
+        ]
+    },
+    {
+        "quote": "Another idol has displaced me... a golden one.",
+        "character": "Belle",
+        "act_scene": "2",
+        "themes": [
+            "Greed",
+            "Love",
+            "Loss"
+        ]
+    },
+    {
+        "quote": "You fear the world too much.",
+        "character": "Belle",
+        "act_scene": "2",
+        "themes": [
+            "Fear",
+            "Regret"
+        ]
+    },
+    {
+        "quote": "Why do you delight to torture me?",
+        "character": "Scrooge",
+        "act_scene": "2",
+        "themes": [
+            "Regret",
+            "Redemption"
+        ]
+    },
+    {
+        "quote": "God bless us, every one!",
+        "character": "Tiny Tim",
+        "act_scene": "3",
+        "themes": [
+            "Hope",
+            "Kindness",
+            "Family"
+        ]
+    },
+    {
+        "quote": "This boy is Ignorance. This girl is Want. Beware them both, and all of their degree.",
+        "character": "Ghost of Christmas Present",
+        "act_scene": "3",
+        "themes": [
+            "Poverty",
+            "Social Injustice"
+        ]
+    },
+    {
+        "quote": "Will you decide what men shall live, what men shall die?",
+        "character": "Ghost of Christmas Present",
+        "act_scene": "3",
+        "themes": [
+            "Judgment",
+            "Compassion"
+        ]
+    },
+    {
+        "quote": "There is nothing in the world so irresistibly contagious as laughter and good humor.",
+        "character": "Narrator",
+        "act_scene": "3",
+        "themes": [
+            "Community",
+            "Joy"
+        ]
+    },
+    {
+        "quote": "Spirit! Hear me! I am not the man I was.",
+        "character": "Scrooge",
+        "act_scene": "4",
+        "themes": [
+            "Redemption",
+            "Change"
+        ]
+    },
+    {
+        "quote": "I will honour Christmas in my heart, and try to keep it all the year.",
+        "character": "Scrooge",
+        "act_scene": "4",
+        "themes": [
+            "Redemption",
+            "Hope"
+        ]
+    },
+    {
+        "quote": "He frightened everyone away from him when he was alive, to profit us when he was dead!",
+        "character": "Charwoman",
+        "act_scene": "4",
+        "themes": [
+            "Greed",
+            "Isolation"
+        ]
+    },
+    {
+        "quote": "It’s likely to be a very cheap funeral.",
+        "character": "Businessman",
+        "act_scene": "4",
+        "themes": [
+            "Greed",
+            "Death"
+        ]
+    },
+    {
+        "quote": "Am I that man who lay upon the bed?",
+        "character": "Scrooge",
+        "act_scene": "4",
+        "themes": [
+            "Fear",
+            "Change"
+        ]
+    },
+    {
+        "quote": "Tiny Tim... did NOT die.",
+        "character": "Narrator",
+        "act_scene": "5",
+        "themes": [
+            "Hope",
+            "Change"
+        ]
+    },
+    {
+        "quote": "I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy.",
+        "character": "Scrooge",
+        "act_scene": "5",
+        "themes": [
+            "Joy",
+            "Transformation"
+        ]
+    },
+    {
+        "quote": "He became as good a friend, as good a master, and as good a man, as the good old city knew.",
+        "character": "Narrator",
+        "act_scene": "5",
+        "themes": [
+            "Redemption",
+            "Community"
+        ]
+    },
+    {
+        "quote": "Scrooge was better than his word. He did it all, and infinitely more.",
+        "character": "Narrator",
+        "act_scene": "5",
+        "themes": [
+            "Redemption",
+            "Generosity"
+        ]
+    },
+    {
+        "quote": "Every idiot who goes about with 'Merry Christmas' on his lips should be boiled with his own pudding.",
+        "character": "Scrooge",
+        "act_scene": "1",
+        "themes": [
+            "Cynicism",
+            "Apathy"
+        ]
+    },
+    {
+        "quote": "You have labored on it since last night?",
+        "character": "Scrooge",
+        "act_scene": "3",
+        "themes": [
+            "Awe",
+            "Self-realization"
+        ]
+    },
+    {
+        "quote": "I will live in the Past, the Present, and the Future!",
+        "character": "Scrooge",
+        "act_scene": "5",
+        "themes": [
+            "Redemption",
+            "Transformation"
+        ]
+    },
+    {
+        "quote": "Marley’s Ghost bothered him exceedingly.",
+        "character": "Narrator",
+        "act_scene": "2",
+        "themes": [
+            "Mortality",
+            "Supernatural"
+        ]
+    },
+    {
+        "quote": "The sight of these poor revellers appeared to interest the Spirit very much.",
+        "character": "Narrator",
+        "act_scene": "3",
+        "themes": [
+            "Poverty"
+        ]
+    },
+    {
+        "quote": "To hear the insect on the leaf pronouncing on the too much life among his hungry brothers.",
+        "character": "Ghost of Christmas Present",
+        "act_scene": "3",
+        "themes": [
+            "Social Injustice",
+            "Judgment"
+        ]
+    },
+    {
+        "quote": "It was always said of him, that he knew how to keep Christmas well.",
+        "character": "Narrator",
+        "act_scene": "5",
+        "themes": [
+            "Community",
+            "Transformation"
+        ]
+    },
+    {
+        "quote": "You are fettered. Tell me why?",
+        "character": "Scrooge",
+        "act_scene": "1",
+        "themes": [
+            "Curiosity",
+            "Supernatural"
+        ]
+    },
+    {
+        "quote": "A kind, forgiving, charitable, pleasant time.",
+        "character": "Fred",
+        "act_scene": "1",
+        "themes": [
+            "Generosity",
+            "Kindness"
+        ]
+    },
+    {
+        "quote": "I see a vacant seat in the poor chimney-corner, and a crutch without an owner.",
+        "character": "Ghost of Christmas Present",
+        "act_scene": "3",
+        "themes": [
+            "Mortality",
+            "Family"
+        ]
+    },
+    {
+        "quote": "The shadows of the things that would have been, may be dispelled.",
+        "character": "Scrooge",
+        "act_scene": "4",
+        "themes": [
+            "Hope",
+            "Change"
+        ]
+    },
+    {
+        "quote": "Your reclamation, then. Take heed!",
+        "character": "Ghost of Christmas Past",
+        "act_scene": "2",
+        "themes": [
+            "Redemption",
+            "Reflection"
+        ]
+    },
+    {
+        "quote": "It is required of every man that the spirit within him should walk abroad among his fellow men.",
+        "character": "Jacob Marley",
+        "act_scene": "1",
+        "themes": [
+            "Social Responsibility",
+            "Regret"
+        ]
+    },
+    {
+        "quote": "Oh, tell me I may sponge away the writing on this stone!",
+        "character": "Scrooge",
+        "act_scene": "4",
+        "themes": [
+            "Fear",
+            "Redemption"
+        ]
+    },
+    {
+        "quote": "I don’t mind going if a lunch is provided.",
+        "character": "Businessman",
+        "act_scene": "4",
+        "themes": [
+            "Greed",
+            "Apathy"
+        ]
+    },
+    {
+        "quote": "The noisy little Cratchits were as still as statues.",
+        "character": "Narrator",
+        "act_scene": "4",
+        "themes": [
+            "Family",
+            "Grief"
+        ]
+    },
+    {
+        "quote": "You are quite a powerful speaker, sir.",
+        "character": "Scrooge",
+        "act_scene": "3",
+        "themes": [
+            "Judgment",
+            "Social Awareness"
+        ]
+    }
+]
