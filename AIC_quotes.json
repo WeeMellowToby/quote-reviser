@@ -10,25 +10,6 @@
         ]
     },
     {
-        "quote": "substantial and heavily comfortable but not cosy and homelike",
-        "character": "Stage",
-        "act_scene": "1",
-        "themes": [
-            "wealth",
-            "class",
-            "appearance vs reality"
-        ]
-    },
-    {
-        "quote": "All five are in evening dress of the period, the men in tails and white ties, not dinner-jackets",
-        "character": "Stage",
-        "act_scene": "1",
-        "themes": [
-            "wealth",
-            "class"
-        ]
-    },
-    {
         "quote": "heavy-looking, rather portentous man in his middle fifties with fairly easy manners but rather provincial in this speech.",
         "character": "Stage",
         "act_scene": "1",
@@ -38,39 +19,11 @@
         ]
     },
     {
-        "quote": "a rather cold woman and her husbands social superior",
-        "character": "Stage",
-        "act_scene": "1",
-        "themes": [
-            "class",
-            "power",
-            "gender"
-        ]
-    },
-    {
         "quote": "pretty girl in her early twenties, very pleased with life and rather excited",
         "character": "Stage",
         "act_scene": "1",
         "themes": [
             "gender"
-        ]
-    },
-    {
-        "quote": "an attractive chap [...] rather too manly to be a dandy but very much the well-bred young man-about-town",
-        "character": "Stage",
-        "act_scene": "1",
-        "themes": [
-            "gender",
-            "class"
-        ]
-    },
-    {
-        "quote": "not quite at ease, half shy, half assertive",
-        "character": "Eric",
-        "act_scene": "1",
-        "themes": [
-            "gender",
-            "power"
         ]
     },
     {
@@ -83,15 +36,6 @@
         ]
     },
     {
-        "quote": "I think miss birling ought to be excused any more of this questioning",
-        "character": "Gerald",
-        "act_scene": "1",
-        "themes": [
-            "gender",
-            "evasion of responsibility"
-        ]
-    },
-    {
         "quote": "we're respectable citizens and not criminals",
         "character": "Gerald",
         "act_scene": "1",
@@ -99,15 +43,6 @@
             "dramatic irony",
             "class",
             "responsibility"
-        ]
-    },
-    {
-        "quote": "getting a bit heavy-handed aren't you inspector?",
-        "character": "Gerald",
-        "act_scene": "1",
-        "themes": [
-            "power",
-            "class"
         ]
     },
     {
@@ -127,16 +62,6 @@
             "responsibility",
             "class",
             "capitalism vs socialism"
-        ]
-    },
-    {
-        "quote": "I don't play golf",
-        "character": "Inspector",
-        "act_scene": "1",
-        "themes": [
-            "class",
-            "work ethics",
-            "authority"
         ]
     },
     {
@@ -185,15 +110,6 @@
         ]
     },
     {
-        "quote": "why - you fool - he knows. You'll see",
-        "character": "Sheila",
-        "act_scene": "1",
-        "themes": [
-            "responsibility",
-            "power of inquiry"
-        ]
-    },
-    {
         "quote": "why shouldn't they try for higher wages? We try for the highest possible prices",
         "character": "Eric",
         "act_scene": "1",
@@ -220,6 +136,117 @@
             "capitalism",
             "selfishness",
             "wealth"
+        ]
+    },
+    {
+        "quote": "I don't like this talk about 'responsibility'. If we were all responsible for everything that happened to everybody we'd had anything to do with, it would be very awkward, wouldn't it?",
+        "character": "Mr Birling",
+        "act_scene": "1",
+        "themes": [
+            "capitalism",
+            "selfishness",
+            "wealth"
+        ]
+    },
+    {
+        "quote": "I became at once the most important person in her life",
+        "character": "Gerald",
+        "act_scene": "2",
+        "themes": [
+            "gender",
+            "exploitation",
+            "power"
+        ]
+    },
+    {
+        "quote": "I didn't feel about her as she felt about me",
+        "character": "Gerald",
+        "act_scene": "2",
+        "themes": [
+            "gender",
+            "exploitation",
+            "power"
+        ]
+    },
+    {
+        "quote": "Go and look for the father of the child. It's his responsibility",
+        "character": "Mrs Birling",
+        "act_scene": "2",
+        "themes": [
+            "gender",
+            "morality",
+            "dramatic irony",
+            "responsibility",
+            "charity"
+        ]
+    },
+    {
+        "quote": "You seem to have made a great impression on the child, Inspector",
+        "character": "Mrs Birling",
+        "act_scene": "2",
+        "themes": [
+            "power",
+            "generational divide",
+            "class"
+        ]
+    },
+    {
+        "quote": "That's when I first prejudiced myself against her.",
+        "character": "Mrs Birling",
+        "act_scene": "2",
+        "themes": [
+            "class",
+            "power",
+            "responsibility"
+        ]
+    },
+    {
+        "quote": "Mother I think that was cruel and vile",
+        "character": "Sheila",
+        "act_scene": "2",
+        "themes": [
+            "change",
+            "reflection"
+        ]
+    },
+    {
+        "quote": "I don't believe it I won't believe it",
+        "character": "Mrs Birling",
+        "act_scene": "3",
+        "themes": [
+            "selfishness",
+            "responsibility"
+        ]
+    },
+    {
+        "quote": "There are millions and millions of Eva Smiths and John Smiths still left with us, with their lives, their hopes and fears, their suffering and chance of happiness, all intertwined with our lives",
+        "character": "Inspector",
+        "act_scene": "3",
+        "themes": [
+            "capitalism vs socialism",
+            "inequality",
+            "responsibility"
+        ]
+    },
+    {
+        "quote": "I was in that state when a chap easily turns nasty",
+        "character": "Eric",
+        "act_scene": "3",
+        "themes": [
+            "gender",
+            "exploitation",
+            "power",
+            "class",
+            "responsibility"
+        ]
+    },
+    {
+        "quote": "The whole story is just a lot of moonshine",
+        "character": "Mr Birling",
+        "act_scene": "3",
+        "themes": [
+            "responsibility",
+            "ignorance"
         ]
     }
 ]
