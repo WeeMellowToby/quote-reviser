@@ -7,7 +7,7 @@ Not all quotes may be the best but this worked well enough for me to get through
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/quote-reviser.git
+git clone https://github.com/weemellowtoby/quote-reviser.git
 cd quote-reviser
 pip install -r requirements.txt
 ```
